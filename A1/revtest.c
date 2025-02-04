@@ -184,7 +184,7 @@ int main(int argc, char** argv) {
       reverse array functions as you complete them.
   */ 
   test_array_reverse(&reverse_arr1,1);
-  //test_array_reverse(&reverse_arr2,2);
+  test_array_reverse(&reverse_arr2,2);
   //test_array_reverse(&reverse_arr3,3);
   //test_array_reverse(&reverse_arr4,4);
   //test_array_reverse(&reverse_arr5,5);
