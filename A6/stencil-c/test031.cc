@@ -7,6 +7,6 @@ int main() {
     print_statistics();
 }
 
-//! MEMORY BUG: test???.cc:9: invalid free of pointer ???, not allocated
-//! test???.cc:8: ??? is 128 bytes inside a 2001 byte region allocated here
+//! MEMORY BUG: test???.cc:6: invalid free of pointer ???, not allocated
+//! test???.cc:5: ??? is 128 bytes inside a 2001 byte region allocated here
 //! ???

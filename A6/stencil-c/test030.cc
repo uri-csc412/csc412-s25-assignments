@@ -24,10 +24,10 @@ int main() {
 // expected lines to occur in any order.
 
 //!!UNORDERED
-//! LEAK CHECK: test???.cc:10: allocated object ??{\w+}?? with size 11
-//! LEAK CHECK: test???.cc:11: allocated object ??{\w+}?? with size 12
-//! LEAK CHECK: test???.cc:13: allocated object ??{\w+}?? with size 14
-//! LEAK CHECK: test???.cc:14: allocated object ??{\w+}?? with size 15
-//! LEAK CHECK: test???.cc:15: allocated object ??{\w+}?? with size 16
-//! LEAK CHECK: test???.cc:16: allocated object ??{\w+}?? with size 17
-//! LEAK CHECK: test???.cc:18: allocated object ??{\w+}?? with size 19
+//! LEAK CHECK: test???.cc:7: allocated object ??{\w+}?? with size 11
+//! LEAK CHECK: test???.cc:8: allocated object ??{\w+}?? with size 12
+//! LEAK CHECK: test???.cc:10: allocated object ??{\w+}?? with size 14
+//! LEAK CHECK: test???.cc:11: allocated object ??{\w+}?? with size 15
+//! LEAK CHECK: test???.cc:12: allocated object ??{\w+}?? with size 16
+//! LEAK CHECK: test???.cc:13: allocated object ??{\w+}?? with size 17
+//! LEAK CHECK: test???.cc:15: allocated object ??{\w+}?? with size 19

@@ -9,5 +9,5 @@ int main() {
 }
 
 //! Bad pointer ??{0x\w+}=ptr??
-//! MEMORY BUG: test???.cc:10: invalid free of pointer ??ptr??, not allocated
+//! MEMORY BUG: test???.cc:7: invalid free of pointer ??ptr??, not allocated
 //! ???
